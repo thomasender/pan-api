@@ -1,0 +1,19 @@
+{
+    "pans": [
+        {
+            "id": 0,
+            "root": "D3",
+            "name": "D Celtic",
+            "notes": ["D3", "A3", "C4", "D4", "E4", "F4", "G4", "A4", "C5"],
+            "chords": ["D Minor", "A Minor", "C Major", "F Major"]
+        },
+        {
+            "id": 0,
+            "root": "D3",
+            "name": "D Hijaz",
+            "notes": ["D3", "A3", "Bb3", "C#4", "D4", "E4", "F4", "G4", "A5"],
+            "chords": ["D Minor", "A Major", "Bb Major", "C# Diminished", "F Augnpmented"]
+        }
+       
+    ]
+}
